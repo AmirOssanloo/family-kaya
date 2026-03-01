@@ -1,4 +1,4 @@
-# Medical Case Summary: Kaya Ossanloo
+# Medical Case Summary: Kaya
 
 **Prepared:** February 2026
 **Purpose:** Independent medical review by consulting physician
