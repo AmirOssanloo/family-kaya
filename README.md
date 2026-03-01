@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| **Name** | Kaya Ossanloo |
+| **Name** | Kaya |
 | **Date of birth** | November 23, 2024 |
 | **Age** | 15 months |
 | **Sex** | Female |
